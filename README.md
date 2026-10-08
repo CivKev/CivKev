@@ -2,6 +2,8 @@
 
 Founder of **Kemit Security**, a privacy-focused technology company building zero-knowledge and privacy-first tools.
 
+🌐 [kevin.smithis.me](https://kevin.smithis.me) · [kemitsecurity.com](https://kemitsecurity.com)
+
 ### What I do
 - **Founder, Kemit Security** — I set product strategy, architecture and infrastructure for a lineup of 15+ planned consumer and business privacy products, built on an "AntiBS" philosophy: transparent, privacy-first, low-overhead tools
 
